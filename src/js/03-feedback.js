@@ -33,3 +33,4 @@ function handlerSubmit(evt) {
     evt.currentTarget.reset();
     localStorage.clear();
 }
+
